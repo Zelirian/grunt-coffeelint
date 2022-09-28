@@ -1,4 +1,5 @@
-[![build status](https://secure.travis-ci.org/vojtajina/grunt-coffeelint.svg)](http://travis-ci.org/vojtajina/grunt-coffeelint)
+##### Atom and all repositories under Atom will be archived on December 15, 2022. Learn more in our [official announcement](https://github.blog/2022-06-08-sunsetting-atom/)
+ [![build status](https://secure.travis-ci.org/vojtajina/grunt-coffeelint.svg)](http://travis-ci.org/vojtajina/grunt-coffeelint)
 # grunt-coffeelint
 
 **Lint your CoffeeScript with [CoffeeLint].**
